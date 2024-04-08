@@ -1,2 +1,5 @@
-<include stdio.h>
-printf("hello word");
+#include <stdio.h>
+int main(){
+printf("teste");
+
+}
